@@ -1,5 +1,5 @@
 
-var dataNumbers = [2,3,5,6,6,4] 
+var dataNumbers = [2,3,5,6,6,4,11,9] 
 
 function getAngkaTerbesarKedua(dataNumbers){
 	// filter digunakan untuk mencari elemen didalam yang sama
